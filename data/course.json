@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "d6b4b4de-ed8f-3198-abd9-70c17534f67f",
+  "instructors": {
+    "content": [
+      "555a4b0b-fd37-ef29-e364-4b6d9753b702"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "516c3bbf-acee-ad24-0a19-df4e328bb1fe",
+    "website": "17-40-american-foreign-policy-past-present-and-future-fall-2017"
+  },
+  "course_title": "American Foreign Policy: Past, Present, and Future",
+  "course_description": "This course explores the reasons for America's past wars and interventions. It covers the consequences of American policies, and evaluates these consequences for the U.S. and the world. History covered includes World Wars I and II, the Korean and Indochina wars, the Cuban Missile Crisis and current conflicts, including those in in Iraq and Afghanistan, and against Al Qaeda.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.40",
+  "course_image_thumbnail": {
+    "content": "7c6aaee5-563d-c1ae-4371-3137fb04d9ed",
+    "website": "17-40-american-foreign-policy-past-present-and-future-fall-2017"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "df2f7097-81a6-4a1f-ac13-afd1fa2fdcab",
+  "site_short_id": "17.40-fall-2017",
+  "site_url_path": "courses/17-40-american-foreign-policy-past-present-and-future-fall-2017",
+  "title": "Course Metadata"
+}
