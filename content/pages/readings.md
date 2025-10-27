@@ -5,11 +5,11 @@ draft: false
 title: Readings
 uid: 7c002606-d998-55aa-4912-3d919e518bce
 ---
-\[G\] = Gaddis, John Lewis. *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with {{% resource_link "4315da99-e627-446b-935d-704808355c7f" "Google Books" %}}\]
+\[G\] = Gaddis, John Lewis. *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with {{% resource_link "bad326ef-4f1d-4663-b986-7f7c0e89e15f" "Google Books" %}}\]
 
-\[H\] = Herring, George C. *America's Longest War: The United States and Vietnam, 1950-1975*. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with {{% resource_link "3cf9b422-5009-4b6d-ace4-f34c014233c7" "Google Books" %}}\]
+\[H\] = Herring, George C. *America's Longest War: The United States and Vietnam, 1950-1975*. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with {{% resource_link "dbed2bf6-aeb3-4bc4-aa2a-234f14a30ca1" "Google Books" %}}\]
 
-\[K\] = Kennedy, Robert F. *Thirteen Days: A Memoir of the Cuban Missile Crisis*. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with {{% resource_link "4368b9fc-c3be-40a9-b519-5abb3ce763f2" "Google Books" %}}\]
+\[K\] = Kennedy, Robert F. *Thirteen Days: A Memoir of the Cuban Missile Crisis*. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with {{% resource_link "0c891845-d60d-4738-8811-1655fc17f52d" "Google Books" %}}\]
 
 \[P\] = Paterson, Thomas G., J. Garry Clifford, Robert Brigham, et al. *American Foreign Relations: A History, Volume 2: Since 1895*. 8th edition. Wadsworth Publishing, 2014. ISBN: 9781285433332. 
 
@@ -37,11 +37,11 @@ Power and Security: Overview of U.S. Foreign Policy Since 1914
 
 A map of the world scaled to gross domestic product (GDP) size designed by Edwin 0. Reischauer, in three versions (plain, Germania and Sovietania). *New York Times Magazine*, November 7, 1976, pp. 35. 
 
-Kennedy, Paul. Tables 6, 17, 18, 30, 31, 35, and Chart 2. From *The Rise and Fall of the Great Powers*. Vintage, 1989. ISBN: 9780679720195. \[Preview with {{% resource_link "eb0bc9c0-b058-4862-8a24-1b8419fb5c0d" "Google Books" %}}\]
+Kennedy, Paul. Tables 6, 17, 18, 30, 31, 35, and Chart 2. From *The Rise and Fall of the Great Powers*. Vintage, 1989. ISBN: 9780679720195. \[Preview with {{% resource_link "8048017d-3d24-4743-9f52-18afaa6655fb" "Google Books" %}}\]
 
-{{% resource_link "bad339aa-d41f-446c-a62b-46de5776f96e" "List of countries by GDP (nominal)" %}}, Wikipedia.
+{{% resource_link "3864c301-5790-4f82-8e25-ef0efef1c8eb" "List of countries by GDP (nominal)" %}}, Wikipedia.
 
-{{% resource_link "4535c884-c000-4e75-92d7-74e095293a83" "Wealth (Map 169)(PDF)" %}}, Worldmapper.org.
+{{% resource_link "0844730c-07e2-403d-88e7-c22929b26873" "Wealth (Map 169)(PDF)" %}}, Worldmapper.org.
 
 Oye, Kenneth A., Robert J. Lieber,  and Donald Rothchild. Table 4-1 in *Eagle in a New World: American Grand Strategy in the Post-Cold War Era*. HarperCollins, 1992. ISBN: 9780065001433. 
 
@@ -53,7 +53,7 @@ Oye, Kenneth A., Robert J. Lieber,  and Donald Rothchild. Table 4-1 in *Eagle i
 Theories of U.S. Foreign Policy
 {{< tdclose >}}{{< tdopen >}}
 
-Van Evera, Stephen. {{% resource_link "852cea60-4ee4-4d50-b0f2-1e059bbae1dc" "\"Offense/Defense Theory in a Nutshell.\" (PDF)" %}} August 27, 2017, revised March 7, 2018, pp. 1–11. 
+Van Evera, Stephen. {{% resource_link "e963d695-fa32-4451-a3d2-a025f5b32e50" "\"Offense/Defense Theory in a Nutshell.\" (PDF)" %}} August 27, 2017, revised March 7, 2018, pp. 1–11. 
 
 *Your instructor's summary of the argument that states are more belligerent and war is more likely when conquest is easy. A key related argument: international conflict arises largely from the "security dilemma"-­ the tendency of states to threaten others' security by their efforts to secure themselves.*
 
@@ -63,11 +63,11 @@ Walt, Stephen M. "Explaining Alliance Formation." Chapter 2 in The *Origins of A
 
 *Walt presents competing hypotheses on how states choose their friends. Which hypotheses are valid? Do your answers matter for the kind of foreign policy you would recommend?*
 
-Beschloss, Michael R. "{{% resource_link "4721541f-6d55-404c-be7b-3de59f7f9159" "Foreign Policy's Big Moment" %}}," *New York Times*, April 11, 1999.
+Beschloss, Michael R. "{{% resource_link "1d9e0ef5-3be1-48a1-bdf9-7c29e21c0d89" "Foreign Policy's Big Moment" %}}," *New York Times*, April 11, 1999.
 
 *Claimed here: during political campaigns U.S. politicians pander to U.S. voters by framing dangerous foreign policy positions that they cannot abandon once in office. The country is thereby led into folly. A corollary: a prime threat to America is … an American public that responds well to irresponsible pandering.*
 
-Kristof, Nicholas D. "{{% resource_link "97172803-38da-4bc1-a71e-bb14625d1097" "Save Our Spooks" %}}," *New York Times*, May 30, 2003.
+Kristof, Nicholas D. "{{% resource_link "6b8169bc-36bb-4ca4-94d0-c0503c6251db" "Save Our Spooks" %}}," *New York Times*, May 30, 2003.
 
 *Governments misperceive the world if their intelligence agencies misreport foreign realities. This can happen if government leaders press their intelligence agencies to tell the leaders what they want to hear regardless of the facts.*
 
@@ -75,7 +75,7 @@ Jervis, Robert. "Deterrence, the Spiral Model, and Intentions of the Adversary."
 
 *Some ("spiral model" advocates) say international conflict is best resolved by the carrot, while using the stick merely provokes; others ("deterrence" advocates) would use the stick, warning that offering carrots ("appeasement") leads others to make more demands. Who's right? Probably both--but under what circumstances? And how can you tell which circumstances you face?*
 
-Gilbert, Daniel. "{{% resource_link "df95d80f-7ddd-4e92-81fc-8828d3693617" "He Who Cast the First Stone Probably Didn't" %}}," *New York Times*, July 24, 2006.
+Gilbert, Daniel. "{{% resource_link "ef292afd-a152-4301-b327-1300548967c4" "He Who Cast the First Stone Probably Didn't" %}}," *New York Times*, July 24, 2006.
 
 *Why do spirals happen? Gilbert describes research noting that people underestimate their own aggressive conduct and exaggerate others' aggressive conduct. This makes for conflict spirals.*
 
@@ -89,27 +89,27 @@ Hersh, Seymour M. "Intrigues." Chapter 9 in *The Price of Power: Kissinger in t
 
 *What to make of the attitudes of Richard Nixon, Henry Kissinger, and Alexander Haig reported here? (Are such attitudes widespread among foreign policymakers? Do such attitudes matter?)*
 
-Cohen, Patricia. "{{% resource_link "2d2dd466-1877-4c6e-bdb0-6010d65e76b9" "Great Caesar's Ghost! Are Traditional History Courses Vanishing?" %}}," *New York Times,* June 10, 2009.
+Cohen, Patricia. "{{% resource_link "cb0c1fc9-b8fa-4267-8f4b-6e958d28ad40" "Great Caesar's Ghost! Are Traditional History Courses Vanishing?" %}}," *New York Times,* June 10, 2009.
 
 *The study of political, diplomatic and military history is being marginalized or destroyed in American universities. Some find this dangerous. Will an increasingly ignorant American public will choose unwisely on fateful security matters? As Santayana warned: "Those who forget the past are condemned to repeat it."*
 
-Just, Marion, and Tom Rosenstiel. "{{% resource_link "740469d2-2d8b-4cc5-abfd-8ef5d82e9b03" "All the News That's Fed" %}}," *New York Times,* March 26, 2005.
+Just, Marion, and Tom Rosenstiel. "{{% resource_link "0bf2ed94-9e62-4d25-a509-1785423190f8" "All the News That's Fed" %}}," *New York Times,* March 26, 2005.
 
 *Television runs press-release videos handed them by powerful interests in order to save money and thicken the bottom line. TV is a business. It helps those who help it cut costs. Keeping you informed is not its purpose.*
 
-Jordan, Eason. "{{% resource_link "291f9c32-4b62-41ed-a3d9-5942ad6f0891" "The News We Kept To Ourselves" %}}," *New York Times,* April 11, 2003.
+Jordan, Eason. "{{% resource_link "c06ab0cd-7978-4228-be28-a7124708f746" "The News We Kept To Ourselves" %}}," *New York Times,* April 11, 2003.
 
 *The press can be cowed into practicing self-censorship. This allows tyrants to intimidate the press into painting themselves in rose­ colored hues.*
 
-Newhouse, John. "{{% resource_link "010f93fb-edbd-449f-9f2f-8128d46c8515" "Diplomacy, Inc.: The Influence of Lobbies on U.S. Foreign Policy" %}}." *Foreign Affairs*, May / June 2009.
+Newhouse, John. "{{% resource_link "4fc182d4-b613-4f99-b3a9-2111fa3dc5fc" "Diplomacy, Inc.: The Influence of Lobbies on U.S. Foreign Policy" %}}." *Foreign Affairs*, May / June 2009.
 
 *Unlike other major powers the United States allows foreign lobbies free run of its national capitol. These foreign lobbies have large influence on US foreign policy. Is this a good idea? Do foreigners have Americans' best interests at heart? The answer is no.*
 
-Massing, Michael. "{{% resource_link "c3816796-957c-40c7-8041-7b9059037af5" "The Storm Over the Israel Lobby" %}}." *New York Review of Books,* June 8, 2006.
+Massing, Michael. "{{% resource_link "81423d71-a02d-4939-b9bc-8a4c293a177d" "The Storm Over the Israel Lobby" %}}." *New York Review of Books,* June 8, 2006.
 
 *An Israel lobby has strong influence over U.S. foreign policy toward the Mideast--but less influence than some (John Mearsheimer and Stephen Walt) have argued.*
 
-Guttman, Nathan. "{{% resource_link "5513885f-98c9-4a0f-a40e-0d2b2b43146f" "Pro-Israel Christians Mobilize in D.C." %}}" *Jewish Daily Forward*, July 18, 2007.
+Guttman, Nathan. "{{% resource_link "ec0f9739-f559-4318-9cb2-c159fe505361" "Pro-Israel Christians Mobilize in D.C." %}}" *Jewish Daily Forward*, July 18, 2007.
 
 *A major faction of evangelical Christians lobby hard to prevent U.S. support for any land-for-peace settlement between Israel and its neighbors. These Christians are an important element of the Israel lobby.*
 
@@ -129,73 +129,73 @@ U.S. Interests and Grand Strategies
 
 ### *George W. Bush-era (2001–09) national security strategy ideas, debates*
 
-Sanger, David E. "{{% resource_link "304c0412-faae-49f1-8f45-5dc73137670e" "Bush to Formalize A Defense Policy of Hitting First" %}}," *New York Times,* June 17, 2002.
+Sanger, David E. "{{% resource_link "80e3561a-da5b-4165-899f-81964a1241de" "Bush to Formalize A Defense Policy of Hitting First" %}}," *New York Times,* June 17, 2002.
 
 *The George W. Bush Administration embraced a general doctrine of preventive war against rogue states that aspire to develop weapons of mass destruction. Iraq was the first rogue state on its hit list: Syria and Iran were also high on the list; Libya and Saudi Arabia were further down. Are such preventive wars a good idea?*
 
-Lieber, Keir A. and Robert J. Lieber. {{% resource_link "8bd9bc1e-e806-45af-bd24-6cad786289d0" "\"The Bush National Security Strategy.\" (PDF)" %}} *U.S. Foreign Policy Agenda, An Electronic Journal of the U.S. Department of State* 7, no. 4 (December 2002): 32–35.
+Lieber, Keir A. and Robert J. Lieber. {{% resource_link "4a4eee3f-8717-4d8e-9842-2a1ba65ffde5" "\"The Bush National Security Strategy.\" (PDF)" %}} *U.S. Foreign Policy Agenda, An Electronic Journal of the U.S. Department of State* 7, no. 4 (December 2002): 32–35.
 
-*A friendly summary and assessment of the* {{% resource_link "40025a1e-51b9-4d5e-bc33-0cebeb563bbd" "*National Security Strategy of the United States of America (Washington D.C.: White House, September 2002)*" %}}*, the document that frames the main elements of the George W. Bush administration strategy, including its general doctrine of preventive war (see Sanger article above).*
+*A friendly summary and assessment of the* {{% resource_link "b1e01b62-a1b4-46fe-9695-7de95e862327" "*National Security Strategy of the United States of America (Washington D.C.: White House, September 2002)*" %}}*, the document that frames the main elements of the George W. Bush administration strategy, including its general doctrine of preventive war (see Sanger article above).*
 
-Baker, Kevin. "{{% resource_link "4f9a3217-4235-45de-b2d9-422b1048e62a" "American Imperialism, Embraced" %}}," *New York Times Magazine,* December 9, 2001.
+Baker, Kevin. "{{% resource_link "dcf9c982-d678-4f12-9664-33b710048c17" "American Imperialism, Embraced" %}}," *New York Times Magazine,* December 9, 2001.
 
-Ricks, Thomas E. "{{% resource_link "e49c542b-d85a-4735-b3df-412d88cd8ad7" "Empire or Not? A Quiet Debate Over U.S. Role" %}}," *Washington Post,* August 21, 2001.
+Ricks, Thomas E. "{{% resource_link "1278f8e7-d450-4b28-be58-c06dffe446dc" "Empire or Not? A Quiet Debate Over U.S. Role" %}}," *Washington Post,* August 21, 2001.
 
 *After 2000, important elements of the U.S. conservative movement began arguing for a U.S. empire. Do Tom Donnelly and William Kristal have a good idea?*
 
 ### *Obama-era (2009–17) national security strategy ideas, debates:*
 
-Sanger, David E., and Peter Baker. "{{% resource_link "2f991299-0c41-4175-8224-dcb14e33609e" "New U.S. Strategy Focuses on Managing Threats" %}}," *New York Times,* May 27, 2010.
+Sanger, David E., and Peter Baker. "{{% resource_link "8eec12d5-a3d6-4af4-99bb-d840a785697d" "New U.S. Strategy Focuses on Managing Threats" %}}," *New York Times,* May 27, 2010.
 
 *The Obama administration national security strategy dropped the George W. Bush administration's unilateralist approach in favor of pursuing common action, and it downgraded the Bush emphasis on preventive war. It focused on preventing terror, limiting the spread of weapons of mass destruction (WMD), and halting climate change.*
 
 ### *Trump-era (2017–) national security strategy ideas, debates*
 
-Kahl, Colin, and Hal Brands. "{{% resource_link "c94faec1-a737-471c-972d-349bdf98f8de" "Trump's Grand Strategic Train Wreck: Believe It or Not, the President has a Grand Strategy. But it's a Nightmarish Mess" %}}." *Foreign Policy,* January 31, 2017.
+Kahl, Colin, and Hal Brands. "{{% resource_link "4355a128-53c7-4552-82ef-43e3f6862d95" "Trump's Grand Strategic Train Wreck: Believe It or Not, the President has a Grand Strategy. But it's a Nightmarish Mess" %}}." *Foreign Policy,* January 31, 2017.
 
 *Please read only the first half of this essay, roughly pages 1–7, up to the section heading reading "Trump's Grand Strategic Dilemmas." The Trump administration sees three overriding threats to the U.S.: radical Islam, unfair trade deals (especially with China), and illegal immigration. The administration offers four strategies to address these threats: extreme homeland security measures, trade protectionism, alliances with dictators like Russia's Putin while downgrading U.S. democratic allies (NATO states) and coercing these allies to contribute more military power, and heavy reliance on the use of force as a policy tool. Trump's focus on the radical Islam threat echoes Bush 43 and Obama; other focuses are new.*
 
-Sanger, David E. "{{% resource_link "b4c1dfa1-63b2-4194-9448-c518929e49ae" "Talk of 'Preventive War' Rises in White House Over North Korea" %}}," *New York Times,* August 20, 2017.
+Sanger, David E. "{{% resource_link "0e4dd472-1117-4747-bb4e-d9161b8ec265" "Talk of 'Preventive War' Rises in White House Over North Korea" %}}," *New York Times,* August 20, 2017.
 
 *Preventive war is back! Unlike Obama officials, some Trump officials think that North Korea cannot be deterred or contained in the way the Soviet Union and China were deterred and contained; and that military action to destroy North Korea's nuclear forces is feasible at acceptable cost. Hence these Trump officials think the U.S. should launch preventive war against North Korea.*
 
 versus
 
-Rice, Susan E. "{{% resource_link "f017f729-4864-4482-b25c-541147582238" "It's Not Too Late on North Korea" %}}," *New York Times*, August 10, 2017.
+Rice, Susan E. "{{% resource_link "aa35c042-ca48-4e50-8cc4-83ada3dcfdad" "It's Not Too Late on North Korea" %}}," *New York Times*, August 10, 2017.
 
 *Rice argues that preventive war against North Korea would be very costly, and would risk war with China. Moreover, North Korea can be deterred and contained, and eventually persuaded to halt its nuclear program, by economic sanction and carrots. Preventive war "would be lunacy."*
 
 ### *National security strategies from academe*
 
-Dizikes, Peter. "{{% resource_link "27356037-1fc9-4678-bc2c-19879da9baec" "Time to Rethink Foreign Policy?" %}}" MIT News, July 9, 2014.
+Dizikes, Peter. "{{% resource_link "a23ccc98-3b51-4e49-8ed7-e0aebb1251a5" "Time to Rethink Foreign Policy?" %}}" MIT News, July 9, 2014.
 
-*Political scientist and MIT professor* {{% resource_link "326fdc85-faca-4c66-9d4e-5c7951b29f7f" "*Barry Posen*" %}} *argues for a more limited U.S. grand strategy in an important book,* Restraint: A New Foundation for U.S. Grand Strategy. *Cornell University Press, 2015. ISBN: 9781501700729. \[Preview with* {{% resource_link "859ed84f-0278-47ec-a3d2-1ecc9c938cd3" "*Google Books*" %}}*\] The U.S. should prevent any state from dominating industrial Eurasia, but that's an easy task--there is no candidate for Eurasian hegemony today. The U.S. should also work to limit nuclear proliferation and to destroy terrorist groups that aim to harm the U.S., but that's easy too. It doesn't require a wide U.S. empire and is best achieved by largely nonmilitary means. Invading Iraq was a bad idea: avoid similar projects down the road.*
+*Political scientist and MIT professor* {{% resource_link "7edf5ae2-dafc-47fe-9390-f06bbe86a0af" "*Barry Posen*" %}} *argues for a more limited U.S. grand strategy in an important book,* Restraint: A New Foundation for U.S. Grand Strategy. *Cornell University Press, 2015. ISBN: 9781501700729. \[Preview with* {{% resource_link "41a5119f-4f91-4ab2-9977-8885eb1836d1" "*Google Books*" %}}*\] The U.S. should prevent any state from dominating industrial Eurasia, but that's an easy task--there is no candidate for Eurasian hegemony today. The U.S. should also work to limit nuclear proliferation and to destroy terrorist groups that aim to harm the U.S., but that's easy too. It doesn't require a wide U.S. empire and is best achieved by largely nonmilitary means. Invading Iraq was a bad idea: avoid similar projects down the road.*
 
- Van Evera, Stephen, ed. {{% resource_link "0338a3e9-419a-4fd5-9d8b-6bddbe578a1e" "\"American Foreign Policy for the New Era.\" (PDF)" %}} In *How to Make America Safe: New Policies for National Security.* Tobin Project, 2006. 
+ Van Evera, Stephen, ed. {{% resource_link "566ca4b4-1641-4efe-8c22-1997d80ada49" "\"American Foreign Policy for the New Era.\" (PDF)" %}} In *How to Make America Safe: New Policies for National Security.* Tobin Project, 2006. 
 
 *The U.S. should lead in forming a concert of major powers to address the prime threats to the U.S.: the spread of weapons of mass destruction (WMD), terrorists like al-Qaeda who would use WMD against the U.S.; and climate change. Imperial conduct by the U.S. would preclude such a concert and should therefore be eschewed.*
 
 ### *Protecting the commons: climate change*
 
-Frank, Robert H. "{{% resource_link "3ce371ff-52f4-49eb-80d4-03c8d0a3a5d3" "A Small Price for a Large Benefit" %}}," *New York Times,* February 21, 2010.
+Frank, Robert H. "{{% resource_link "777a69e3-924d-4586-8e91-41c44a4ec870" "A Small Price for a Large Benefit" %}}," *New York Times,* February 21, 2010.
 
 *Climate change is real and dangerous. We face a 10 percent chance of a catastrophic 12-degree climb in temperatures by 2100. And: we can prevent catastrophic climate change at modest cost. Maybe we should do it!*
 
-Homer-Dixon, Thomas. "{{% resource_link "26bbc24c-4c44-4c3b-b24d-1e474a2e9f62" "Terror in the Weather Forecast" %}}," *New York Times,* April 24, 2007.
+Homer-Dixon, Thomas. "{{% resource_link "623950e8-fb99-4b8d-9631-d95c399bac63" "Terror in the Weather Forecast" %}}," *New York Times,* April 24, 2007.
 
 *Climate change will cause failed states, terrorism, and vast forced migrations, triggering civil and international war. How cheery.*
 
-Davenport, Coral. "{{% resource_link "11a7fd4c-5e7f-4243-b37d-fb540b73bb9a" "Climate Change Deemed Growing Security Threat by Military Researchers" %}},'' *New York Times,* May 14, 2014.
+Davenport, Coral. "{{% resource_link "78f3daeb-0b4c-4df1-a39e-70f1e609e38c" "Climate Change Deemed Growing Security Threat by Military Researchers" %}},'' *New York Times,* May 14, 2014.
 
-{{% resource_link "650dce54-cd49-409a-ad87-567b8743a3eb" "*The Center for Naval Analyses*" %}} *warns that climate change will disrupt other societies in ways that will cause conflict, war, refugees, and chaos overseas, and will do damage to U.S. military infrastructure in the U.S. U.S. national security will suffer.*
+{{% resource_link "6d4c1f44-952c-4b63-9400-b3fc3c609adc" "*The Center for Naval Analyses*" %}} *warns that climate change will disrupt other societies in ways that will cause conflict, war, refugees, and chaos overseas, and will do damage to U.S. military infrastructure in the U.S. U.S. national security will suffer.*
 
-Romm, Joe. "{{% resource_link "4143fdd5-342d-4189-839a-4600d3cf318a" "Climate Panel Stunner: Avoiding Climate Catastrophe is Super Cheap-But Only if We Act Now" %}}." ThinkProgress, April 13, 2014.
+Romm, Joe. "{{% resource_link "701b0711-2a84-40fc-be56-3f851616c535" "Climate Panel Stunner: Avoiding Climate Catastrophe is Super Cheap-But Only if We Act Now" %}}." ThinkProgress, April 13, 2014.
 
 *Action to contain climate change would not cost much. Atmospheric carbon dioxide levels can be kept below 450 parts per million (a commonly accepted target) in 2100 by actions that would only shave a trivial .06 percent off the U.S. economic growth rate if we began now. Chump change! But delay will sharply raise the costs of effective action.*
 
 ### *Humanitarian intervention, debates about it*
 
-Kaufmann, Chaim. "{{% resource_link "de2b013c-3f79-48a3-b220-0c31395c1568" "See No Evil: Why America Doesn't Stop Genocide" %}}." *Foreign Affairs,* July / August 2002.
+Kaufmann, Chaim. "{{% resource_link "30320a0e-e16c-43b2-8b09-1634725018ae" "See No Evil: Why America Doesn't Stop Genocide" %}}." *Foreign Affairs,* July / August 2002.
 
 *The U.S. could have stopped genocide in Rwanda in 1994 and elsewhere but chose not to. Good choice? Should the U.S. intervene to prevent such horrors?*
 
@@ -203,23 +203,23 @@ Cooper, Glenda. "U.S. Memos on Rwanda Cited," *Boston Globe,* August 23, 2001.
 
 *More color on U.S. inaction in Rwanda.*
 
-Kristof, Nicholas "{{% resource_link "89ed044b-00e7-4c88-a1d4-15aac0c6313e" "Yet Again in Sudan" %}}," *New York Times,* June 29, 2011.
+Kristof, Nicholas "{{% resource_link "f844243b-1301-4ecb-9c84-dccfd489b246" "Yet Again in Sudan" %}}," *New York Times,* June 29, 2011.
 
 *The ever-murderous Islamist government of Sudan conducted a 55-year killing spree against its own people, killing 1–2 million people in now­ independent South Sudan, then 300,000 in Darfur, then the Nuba people. Should something have been done?*
 
-Kinzer, Stephen. "{{% resource_link "66acd803-0d09-4453-82da-daa45335fefa" "Are Human Rights Activists Today's Warmongers?" %}}" *Boston Globe,* May 25, 2014.
+Kinzer, Stephen. "{{% resource_link "feb6e715-a045-48a2-919e-0819570d11eb" "Are Human Rights Activists Today's Warmongers?" %}}" *Boston Globe,* May 25, 2014.
 
-*Claimed by Kinzer: Human rights advocates now often call for war to protect human rights, e.g., in Syria, Afghanistan, South Sudan, This is unwise.* {{% resource_link "b8e5e929-bf37-420a-994a-8ddbcc03c38a" "*Human Rights Watch*" %}} *has been captured by advocates of a belligerent parochial agenda. This is bad.*
+*Claimed by Kinzer: Human rights advocates now often call for war to protect human rights, e.g., in Syria, Afghanistan, South Sudan, This is unwise.* {{% resource_link "840c8cd7-6ab2-4998-beca-a8bf5ba7d514" "*Human Rights Watch*" %}} *has been captured by advocates of a belligerent parochial agenda. This is bad.*
 
 ### *Protecting the commons: global public health*
 
-Troedsson, Hans, and Anton Rychener, "{{% resource_link "75fd2bc8-0882-4620-9e43-558a142b6d7d" "When Influenza Takes Flight" %}}," *New York Times*, February 5, 2005.
+Troedsson, Hans, and Anton Rychener, "{{% resource_link "dd2b6e59-f2ff-47b3-8ce8-d4fe952da97f" "When Influenza Takes Flight" %}}," *New York Times*, February 5, 2005.
 
 *The 1918 flu killed 675,000 Americans--more than died in combat in the two World Wars combined. Bummer. Something similar could happen again. We have learned some tricks since 1918 but remain poorly prepared for another lethal flu pandemic. What's the answer? Two ideas: better vaccine manufacturing technique, and worldwide preventive action. Again, everyone must cooperate. Hence this is a foreign policy problem. What are we doing about it? Not much.*
 
 ### *Spreading democracy: a debated goal*
 
-Kinzer, Stephen. "{{% resource_link "a93c9b3d-b843-4daf-80bf-bd49aa2303ff" "Stability Does Not Require Democracy" %}}," *Boston Globe,* August 17, 2014.
+Kinzer, Stephen. "{{% resource_link "46828844-4fa7-410d-9c6f-2c973e174552" "Stability Does Not Require Democracy" %}}," *Boston Globe,* August 17, 2014.
 
 *Kinzer argues that the U.S. should not reflexively favor ousting authoritarian regimes. Often democracy won't result; and sometimes what follows will be worse. Witness Iraq 2003, Libya 2011. Regime change is difficult business. The US track record at regime change is very spotty.*
 
@@ -275,37 +275,37 @@ U.S. National Security Policy, 1945–present
 
 *A good analytic account of American security policy under Truman by a leading American historian.*
 
-Rees, Sir Martin. "Post–2000 Threats: Terror and Error." Chapter 4 in *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century--On Earth and Beyond.* Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "a489d21c-3d06-4aa8-af74-44eba973de4a" "Google Books" %}}\]
+Rees, Sir Martin. "Post–2000 Threats: Terror and Error." Chapter 4 in *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century--On Earth and Beyond.* Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "1deb73a2-6d4c-4112-88a0-22c9a81f4df8" "Google Books" %}}\]
 
-———. "Slowing Science Down?" Chapter 6 in *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century--On Earth and Beyond*. Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "841786b9-7624-44d1-a1c5-2b3c3350147f" "Google Books" %}}\]
+———. "Slowing Science Down?" Chapter 6 in *Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century--On Earth and Beyond*. Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "6e42f4e0-c14d-408b-8032-92106a094ee1" "Google Books" %}}\]
 
 *The advance of science has a fearsome byproduct: we are discovering ever more powerful means of destruction. These destructive powers are being democratized: the mayhem that only major states can do today may lie within the capacity of millions of individuals in the future unless we somehow change course. Deterrence works against states but will fail against crazed non-state organizations or individuals. How can the spread of destructive powers be controlled?*
 
 *For more on controlling the long term bioweapons danger see:*
 
-Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. {{% resource_link "633cdff5-9d09-412e-935e-7e3b11f4a67f" "*Controlling Dangerous Pathegens: A Prototype Protective Oversight System.*" %}} {{% resource_link "633cdff5-9d09-412e-935e-7e3b11f4a67f" "(PDF - 3.0MB)" %}} The Center for International and Security Studies at Maryland. Advanced Methods of Cooperative Security Program, the University of Maryland. March 2007.
+Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. {{% resource_link "db0e7b28-1628-40eb-9ec0-01cdd3172156" "*Controlling Dangerous Pathegens: A Prototype Protective Oversight System.*" %}} {{% resource_link "db0e7b28-1628-40eb-9ec0-01cdd3172156" "(PDF - 3.0MB)" %}} The Center for International and Security Studies at Maryland. Advanced Methods of Cooperative Security Program, the University of Maryland. March 2007.
 
-Kelly, Henry C. "{{% resource_link "2f6fb799-1824-43cf-aa56-79ceedccb2b3" "Terrorism and the Biology Lab" %}}," *New York Times*, July 2, 2003.
+Kelly, Henry C. "{{% resource_link "4e5da247-141a-47ad-b530-643bb9cff016" "Terrorism and the Biology Lab" %}}," *New York Times*, July 2, 2003.
 
 *The biology profession must realize that its research, if left unregulated, could produce discoveries that gravely threaten our safety. Biologists must develop a strategy to keep biology from being used for destructive ends.*
 
-Regalado, Antonio. "{{% resource_link "3478a957-f1a3-4134-a4d1-fdaa84848f04" "Top U.S. Intelligence Official Calls Gene Editing a WMD Threat" %}}." *MIT* *Technology Review,* February 9, 2016.
+Regalado, Antonio. "{{% resource_link "2bdcec21-d4a9-4497-868e-83015c67e714" "Top U.S. Intelligence Official Calls Gene Editing a WMD Threat" %}}." *MIT* *Technology Review,* February 9, 2016.
 
 *The wolf that worried Henry Kelly--new ultra­ lethal biotechnology (see previous reading)--is at our door. Recent advances in gene editing, embodied in the CRISPR editing method, will spread the power to create new bioagents hither and yon, including to nihilistic terrorists and psychopaths. They will not be deterrable. The only way to reliably prevent the use of weapons of mass destruction (WMD) is deterrence, but these bad actors are not deterrable. U.S. director of national intelligence James Clapper warned of this danger in 2016, declaring CRISPR--a product of the U.S. scientific community--to be a threat to U.S. national security. Has our bioengineering science community created a grave threat?*
 
-Whitman, Christine Todd. "{{% resource_link "4709a78b-8dac-40c7-90b6-0b6a534a3820" "The Chemical Threat to America" %}}," *New York Times,* August 30, 2012.
+Whitman, Christine Todd. "{{% resource_link "382dd092-ca5d-4215-af09-bd44bf798ac0" "The Chemical Threat to America" %}}," *New York Times,* August 30, 2012.
 
 *A clever attack on a chemical plant in the U.S. could cause vastly greater mayhem than the 9/11/01 attack. But little has been done to secure U.S. chemical plants from attack. Earth to Washington: maybe do something?*
 
-Allison, Graham. "{{% resource_link "4bb09db9-b2ec-4753-8a91-53d137414acd" "Living in the Era of Megaterror" %}}," *New York Times,* September 7, 2012.
+Allison, Graham. "{{% resource_link "9d222b93-a76d-48dc-be6d-516756ee76d9" "Living in the Era of Megaterror" %}}," *New York Times,* September 7, 2012.
 
 *Al-Qaeda has been weakened by U.S. attacks on its leadership and infrastructure, and by its self­ delegitimating conduct. But over the longer term the threat of WMD terror will rise as the advance of science disperses the capacity to commit mass killing to more groups and individuals.*
 
-Robbins, Carla Anne. "{{% resource_link "d74003f5-0d48-4eb5-ba99-2236f0f53a68" "Thinking the Unthinkable: A World Without Nuclear Weapons" %}}," *New York Times,* June 30, 2008.
+Robbins, Carla Anne. "{{% resource_link "0788fee2-a589-4b5a-8512-31f1d171277d" "Thinking the Unthinkable: A World Without Nuclear Weapons" %}}," *New York Times,* June 30, 2008.
 
 *Former nuclear hawks George Shultz, Henry Kissinger, William Perry and Sam Nunn want to pursue global nuclear disarmament. A radical idea from very establishment people. Should we do this?*
 
-Broad, William J. "{{% resource_link "26636dfd-4991-49da-8464-306d9975c5d4" "Laser Advances in Nuclear Fuel Stir Terror Fear" %}}," *New York Times,* August 21, 2011.
+Broad, William J. "{{% resource_link "f49b37c1-d8dd-4ff1-ad39-a758c624e9c9" "Laser Advances in Nuclear Fuel Stir Terror Fear" %}}," *New York Times,* August 21, 2011.
 
 *General Electric and Hitachi have reportedly developed a new means to enrich uranium. Enriching uranium is the key step in making an atomic bomb. The GE/Hitachi Silex process allows enrichment in a small, low-cost facility. Will this put atomic bombs in close reach of crazy states and terrorists? Is Rees's nightmare coming true? Have the people at GE and Hitachi taken leave of their senses? Inquiring minds want to know.*
 
@@ -319,7 +319,7 @@ The U.S. "War on Terror," 9/11/01–present
 
 *A standard synopsis of the al-Qaeda attack of 9/11/01 and the George W. Bush administration's response*.
 
-Riedel, Bruce. "The Thinker: Zawahiri." Chapter 2 in *The Search for Al Qaeda: Its Leadership, Ideology, and Future*. Brookings Institution Press, 2010. ISBN: 9780815704515. \[Preview with {{% resource_link "80031363-30b7-4020-9cbd-3d2ec0eea009" "Google Books" %}}\]
+Riedel, Bruce. "The Thinker: Zawahiri." Chapter 2 in *The Search for Al Qaeda: Its Leadership, Ideology, and Future*. Brookings Institution Press, 2010. ISBN: 9780815704515. \[Preview with {{% resource_link "1870ea08-1526-4310-ac41-889d73c20ea7" "Google Books" %}}\]
 
 ———. "Al Qaeda's Plans." Chapter 6 in *The Search for Al Qaeda: Its Leadership, Ideology, and Future*. Brookings Institution Press, 2010. ISBN: 9780815704515.
 
@@ -327,15 +327,15 @@ Riedel, Bruce. "The Thinker: Zawahiri." Chapter 2 in *The Search for Al Qaeda: I
 
 *Recommended as an extra reading:*
 
-Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House, 2003, pp. 38–55, pp. 61–68, and pp. 91–94. ISBN: 9780812969849. \[Preview with {{% resource_link "fd336431-e73f-4cb6-ae13-d73e32396551" "Google Books" %}}\]
+Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House, 2003, pp. 38–55, pp. 61–68, and pp. 91–94. ISBN: 9780812969849. \[Preview with {{% resource_link "640597ee-1ddd-4bcc-8372-ef0681887701" "Google Books" %}}\]
 
-———. "A Paradigm Lost." Chapter 6 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House, 2003, pp. 219–33. ISBN: 9780812969849. \[Preview with {{% resource_link "6e7ef8c2-2764-4c75-a867-483a11ccc991" "Google Books" %}}\]
+———. "A Paradigm Lost." Chapter 6 in *The Age of Sacred Terror: Radical Islam's War Against America.* Random House, 2003, pp. 219–33. ISBN: 9780812969849. \[Preview with {{% resource_link "9c73f2b8-7387-40c8-94d3-d9b109aa01ef" "Google Books" %}}\]
 
-———. "Afterword: The War Thus Far: A Status Report." In *The Age of Sacred Terror: Radical Islam's War Against America*. Random House, 2003. ISBN: 9780812969849. \[Preview with {{% resource_link "68c4269a-dd87-4f8c-ae56-f9a3674b8e89" "Google Books" %}}\]
+———. "Afterword: The War Thus Far: A Status Report." In *The Age of Sacred Terror: Radical Islam's War Against America*. Random House, 2003. ISBN: 9780812969849. \[Preview with {{% resource_link "d8bab607-5e03-4d72-b3d4-f3ab5341f123" "Google Books" %}}\]
 
 *Chapter 2 describes the Islamist currents of thinking that spawned Osama Bin Laden's Al Qaeda and the frightening rise of apocalyptic thinking in the Islamic world. Chapter 6 and the afterword survey and evaluate the Clinton administration and Bush administration counter-terror strategies and policies.*
 
-{{% resource_link "a3cc3f7e-19a0-499f-80bd-367763b123bd" "The National Defense Strategy of the United States of America. (PDF - 1.6MB)" %}} U.S. Government Printing Office, pp. 6–9. March 2005.
+{{% resource_link "d06a4d8b-10c2-4a93-bb85-64b7cb4dba24" "The National Defense Strategy of the United States of America. (PDF - 1.6MB)" %}} U.S. Government Printing Office, pp. 6–9. March 2005.
 
 *This summarizes G.W. Bush administration thinking on how to defeat Al Qaeda. Note the list on page 8 of eight major terrorist vulnerabilities to be targeted. Behind this strategy is the view that terrorist networks are like organisms whose care and feeding can be disrupted if their needs are understood.*
 
@@ -345,19 +345,19 @@ Al-Hattan, Sulaiman. "Homegrown Fanatics," *New York Times*, May 15, 2003.
 
 *Saudi Arabian society is dominated by a hateful and xenophobic version of Islam-Wahhabism. Unless Wahhabism is tempered Saudi Arabia will export more terror against the non-Muslim world.*
 
-Haqqani, Husain. "{{% resource_link "a283f763-314c-46b1-b411-4df76077a2cc" "Extremism Still Thrives in Pakistan" %}}," *New York Times, * July 20, 2005.
+Haqqani, Husain. "{{% resource_link "b3fc5934-ce06-4b50-b315-cf39ea327b64" "Extremism Still Thrives in Pakistan" %}}," *New York Times, * July 20, 2005.
 
 *Pakistan is in the throes of something bad, but what is it? Religious extremism? Militarism? How should the U.S. respond?*
 
-Nabil, Rahmatullah. "{{% resource_link "be164dd8-2a53-46a5-be0c-65ee78bb83bc" "The World Must Secure Pakistan's Nuclear Weapons" %}}," *New York Times,* April 20, 2017.
+Nabil, Rahmatullah. "{{% resource_link "8b1750fe-f8bc-4ff4-ad3c-e0a0466475b3" "The World Must Secure Pakistan's Nuclear Weapons" %}}," *New York Times,* April 20, 2017.
 
 *Pakistan has the world's fifth-largest nuclear arsenal. This arsenal is not physically well-secured. The Pakistani state and society are shot through with jihadi Muslim extremists who are sympathetic to al­ Qaeda and ISIS. Bottom line: Pakistan's nuclear weapons are dangerously vulnerable to seizure or purchase by terrorists. Oh dear!*
 
-Whitman, Christine Todd. "{{% resource_link "4709a78b-8dac-40c7-90b6-0b6a534a3820" "The Chemical Threat to America" %}}," *New York Times,* August 29, 2012.
+Whitman, Christine Todd. "{{% resource_link "382dd092-ca5d-4215-af09-bd44bf798ac0" "The Chemical Threat to America" %}}," *New York Times,* August 29, 2012.
 
 *A clever attack on a chemical plant in the U.S. could cause vastly greater mayhem than the 9/11/01 attack. But little has been done to secure U.S. chemical plants from attack. Earth to Washington: maybe do something?*
 
-Benjamin, Daniel. "{{% resource_link "bc154ca4-7148-4515-823c-c8f2640d5623" "Hawks Exaggerate Islamic State Threat to the United States" %}}," *Boston Globe,* August 17, 2014.
+Benjamin, Daniel. "{{% resource_link "ec6bebb8-f155-47d6-bd22-553964cec8dc" "Hawks Exaggerate Islamic State Threat to the United States" %}}," *Boston Globe,* August 17, 2014.
 
 *How can the size of the threat posed by extreme Islamist terrorist groups like al­ Qaeda and ISIS be measured? Benjamin argues that ISIS is dangerous but its danger is finite.*
 
@@ -371,11 +371,11 @@ U.S. Foreign Economic Policy, 1945–present
 
 *An explication of David Ricardo's theory of comparative advantage.*
 
-Rodrik, Dani. "{{% resource_link "4ec04685-b686-4d59-806c-05860bcc9e47" "Too Late to Compensate Free Trade's Losers" %}}." Project Syndicate, April 11, 2017.
+Rodrik, Dani. "{{% resource_link "6f2abe5e-7414-460b-92b5-b7581f204760" "Too Late to Compensate Free Trade's Losers" %}}." Project Syndicate, April 11, 2017.
 
 *Free trade increases net wealth, but it creates losers as well as winners. In the U.S. the losses are concentrated among unskilled workers. In Europe losers are compensated, in the U.S. they are left to fend for themselves. Whole communities are sometimes ruined. Think Youngstown, Ohio. No wonder many U.S. "rust belt" workers have lately voted for candidates who echo protectionist ideas, like Donald Trump and Bernie Sanders.*
 
-Becker, Elizabeth. "{{% resource_link "b8a5f178-4bed-48e4-8054-4c10e3cbc536" "Raising Farm Subsidies, U.S. Widens International Rift" %}}," *New York Times,* June 15, 2002.
+Becker, Elizabeth. "{{% resource_link "e9ad6fef-0afe-4db5-914a-5f4c348b3e5f" "Raising Farm Subsidies, U.S. Widens International Rift" %}}," *New York Times,* June 15, 2002.
 
 *The U.S. waves the free trade banner--except when it doesn't want to. U.S. strictures on imports of agricultural products and textiles are a blow to the world's poor.*
 
@@ -405,27 +405,27 @@ Kaplan, Fred. "Kennedy and Cuba at 35: Latest Tapes Show JFK Had Firm Grip on Mi
 
 *Later revelations about the Cuban Missile Crisis. JFK was the most dovish official in the government. He secretly traded the U.S. Jupiter missiles in Turkey for the Soviet missiles in Cuba. He was willing to give even further if needed. What if someone else had been president?*
 
-Smith, Jean Edward. "{{% resource_link "18d557f4-5098-43ac-8ca9-d90f2f3d5a5c" "The Peace Presidents" %}}," *New York Times,* May 9, 2007.
+Smith, Jean Edward. "{{% resource_link "61cebad0-bd68-478d-865b-2aae1c755517" "The Peace Presidents" %}}," *New York Times,* May 9, 2007.
 
 *Is history written to emphasize the uses of force by Presidents, and to downplay their horse trading and compromise? The 1962 Cuban Missile Crisis was settled by concessions from both sides, although Kennedy hid the U.S. concessions from public view and painted the outcome as a pure Soviet backdown. Smith notes that other war-hero presidents, including Grant and Eisenhower, eschewed force and cut deals at important moments, and more often than popular history remembers. U.S. Grant was a peacenick! George Washington stood against strong hawkish criticism to reach Jay's treaty, which avoided war with Britain. John Adams resisted strong demands for war with France, losing office as a result. But their policies look good in retrospect.*
 
-Tolchin, Martin. "{{% resource_link "da13cf55-cf4a-4d25-8297-58462289e5d9" "U.S. Underestimated Soviet Force in Cuba During '62 Missile Crisis" %}}," *New York Times*, January 15, 1992.
+Tolchin, Martin. "{{% resource_link "d3587ba1-d1dc-4050-8b00-84dbd8195715" "U.S. Underestimated Soviet Force in Cuba During '62 Missile Crisis" %}}," *New York Times*, January 15, 1992.
 
 "Book on Cuban Crisis Cites Spy's False Code," *New York Times*, October 23, 1987.
 
 Burlatsky, Fedor. "Castro Wanted a Nuclear Strike," *New York Times*, October 23, 1992.
 
-Pear, Robert. "{{% resource_link "9be9481c-c220-47d8-a8d5-007d6a0b0e1d" "The Cuba Missile Crisis: Kennedy Left a Loophole" %}}," *New York Times*, January 7, 1992.
+Pear, Robert. "{{% resource_link "51a26a58-2f2b-4057-aee3-501ff3e5c6ea" "The Cuba Missile Crisis: Kennedy Left a Loophole" %}}," *New York Times*, January 7, 1992.
 
-Salinger, Pierre. "{{% resource_link "fa96e480-60f4-46d8-bde9-f12895a493b8" "Gaps in the Cuban Missile Crisis Story" %}}," *New York Times*, February 5, 1989.
+Salinger, Pierre. "{{% resource_link "657a0de1-6ad0-4ab2-a148-377345f30208" "Gaps in the Cuban Missile Crisis Story" %}}," *New York Times*, February 5, 1989.
 
-Weiner, Tim. "{{% resource_link "90fea76e-70dc-4679-b250-320638c94741" "Word for Word / The Cuban Missile Crisis: When Kennedy Faced Armageddon, and His Own Scornful Generals" %}}," *New York Times*, October 5, 1997.
+Weiner, Tim. "{{% resource_link "50db54b9-8cbe-4e1e-8922-91e4a5bc522b" "Word for Word / The Cuban Missile Crisis: When Kennedy Faced Armageddon, and His Own Scornful Generals" %}}," *New York Times*, October 5, 1997.
 
-Allyn, Bruce J., and James G. Blight. "{{% resource_link "090b2b69-2058-49d1-920e-4299f9609228" "After Missile Crisis, Game of Chicken Went On: Closer Than We Knew" %}}," *New York Times*, November 2, 1992.
+Allyn, Bruce J., and James G. Blight. "{{% resource_link "5cc7dbcd-a69e-4f82-a0f7-9b86356e44d3" "After Missile Crisis, Game of Chicken Went On: Closer Than We Knew" %}}," *New York Times*, November 2, 1992.
 
-Dobbs, Michael. "{{% resource_link "5e4fe199-476a-46ac-8218-22dbeae7c70b" "The Price of a 50-Year Myth" %}}," *New York Times*, October 16, 2012.
+Dobbs, Michael. "{{% resource_link "d412bf3a-d647-4320-a7d0-66018f278a00" "The Price of a 50-Year Myth" %}}," *New York Times*, October 16, 2012.
 
-*For more information, you can visit* {{% resource_link "4c12fbbf-a447-46eb-9f71-f6996b988ff7" "*The Cuban Missile Crisis, 1962: The 40th Anniversary*" %}}*, a good website on the crisis put together by the* {{% resource_link "d182439f-876e-4a2f-8528-e30fd067216f" "*National Security Archive*" %}}*. Documents can be seen, tapes can be listened to, and intelligence photos can be viewed at this site. And for more sources on the crisis, visit* {{% resource_link "c64496ed-0d0f-4bb7-b262-7a501d0330fd" "*Cuban Missile Crisis*" %}}*, a website from Harvard Business School's* {{% resource_link "730aa640-caff-404c-96fa-37e785e6279e" "*Belfer Center for Science and International Affairs*" %}}*.*
+*For more information, you can visit* {{% resource_link "a06cc006-ced1-4ee3-8683-9f74e232d356" "*The Cuban Missile Crisis, 1962: The 40th Anniversary*" %}}*, a good website on the crisis put together by the* {{% resource_link "0aae13d3-55ac-4280-978b-e63d30c4ddec" "*National Security Archive*" %}}*. Documents can be seen, tapes can be listened to, and intelligence photos can be viewed at this site. And for more sources on the crisis, visit* {{% resource_link "ada44a56-dc15-43d8-b9d0-4333ab25fae9" "*Cuban Missile Crisis*" %}}*, a website from Harvard Business School's* {{% resource_link "005ece31-2b2f-4eb9-b5f1-540f65c3c2c6" "*Belfer Center for Science and International Affairs*" %}}*.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. American Interventions in the "Third World"**
@@ -485,7 +485,7 @@ Barnet, Richard J. "The Subversion of Undesirable Governments." Chapter 10 in *I
 
 *A short history of some of the better-known CIA Cold War covert operations, including those in Iran (1953) and Guatemala (1954).*
 
-Hochschild, Adam. "{{% resource_link "4dd9158d-2a95-44e5-b867-2238b2c7fa7e" "An Assassination's Long Shadow" %}}," *New York Times,* January 17, 2011.
+Hochschild, Adam. "{{% resource_link "c6eb481a-9f8a-4e8c-9cf2-b017f32aa759" "An Assassination's Long Shadow" %}}," *New York Times,* January 17, 2011.
 
 *In 1960 the U.S. government abetted the murder of Patrice Lumumba, the most popular leader in the state now known as the Democratic Republic of Congo. The U.S. then supported the rise and rule of the immensely corrupt Joseph Mobutu, who brought ruin to Congo. An immense civil war followed his downfall. Murdering Lurnurnba: good choice?*
 
@@ -493,11 +493,11 @@ Schraeder, Peter J., ed. "Paramilitary Intervention." Chapter 8 in *Intervention
 
 *Focus on pp. 137–49 ("The Reagan Doctrine and Paramilitary Intervention"), skim the rest. The four wars waged under the rubric of the Reagan Doctrine are described here.*
 
-Bamford, James. "Situation Room." Chapter 10 in *A Pretext for War: 9/11, Iraq, and the Abuse of America's Intelligence Agencies.* Anchor, 2005, pp. 253–70 (skim pp. 253–60, read pp. 260–69). ISBN: 9781400030347. \[Preview with {{% resource_link "e059c773-8919-4c55-8f06-9f4830545e1b" "Google Books" %}}\]
+Bamford, James. "Situation Room." Chapter 10 in *A Pretext for War: 9/11, Iraq, and the Abuse of America's Intelligence Agencies.* Anchor, 2005, pp. 253–70 (skim pp. 253–60, read pp. 260–69). ISBN: 9781400030347. \[Preview with {{% resource_link "6bf6ff91-647a-4fe2-8d48-22d62ba66ecd" "Google Books" %}}\]
 
 *Also worthwhile on the neoconservatives but not assigned are Chapter 11 "Capitol Hill," pp. 277–82. And on "intelligence to please" (i.e., U.S. intel agencies corruptly adapting their reports to the preferences of top U.S. official), see Chapter 13 "Langley," pp. 333–66.*
 
-Tharoor, Ishaan. "{{% resource_link "b38d049b-04c3-4d9c-be00-cddd55da0104" "The Long History of the U.S. Interfering with Elections Elsewhere" %}}," *Washington Post,* October 13, 2016.
+Tharoor, Ishaan. "{{% resource_link "46a8fe98-d407-4641-a4b9-4aff18ca11e2" "The Long History of the U.S. Interfering with Elections Elsewhere" %}}," *Washington Post,* October 13, 2016.
 
 *Russia interfered in the 2016 U.S. Presidential election. The U.S. has similarly intervened in many elections in other countries, including Italy, Chile, Philippines, Japan, .Honduras, and Ukraine.*
 
@@ -517,33 +517,33 @@ Current Issues and Crises; Assessment of Bush 43 and Obama Administration's Fore
 
 *A textbook synopsis of the Iraq war of 2003, and of the George W. Bush administration's policies toward Iran, North Korea, Pakistan, and China.*
 
-Huntington, Samuel P. "{{% resource_link "6d54cfff-27d5-443e-9fb2-9195cb4e01a8" "The Coming Clash of Civilizations: Or, the West Against the Rest" %}}," *New York Times,* June 6, 1993.
+Huntington, Samuel P. "{{% resource_link "222c00b8-b817-4305-bfaf-560e831fed88" "The Coming Clash of Civilizations: Or, the West Against the Rest" %}}," *New York Times,* June 6, 1993.
 
 *In a now-classic article Huntington forecast that after the Cold War ended humankind would again be at its own throat, this time in a confrontation of great civilizations and religions.*
 
-Shane, Scott. "{{% resource_link "36b9ba79-0eca-41d7-9073-51d3c18430a5" "Global Forecast by American Intelligence Expects Al Qaeda's Appeal to Falter" %}}," *New York Times,* November 20, 2008.
+Shane, Scott. "{{% resource_link "c8a57d3a-3e4a-4ae5-a69f-24fcba885fba" "Global Forecast by American Intelligence Expects Al Qaeda's Appeal to Falter" %}}," *New York Times,* November 20, 2008.
 
 *Another peer into the future, from 2008. The good news is that al Qaeda may fade by 2025. The bad news is that the United States is fading too, and will grow weaker relative to other powers in coming decades. The world will increasingly be riven by conflict over scarce food and water, threatened by rogue states and terrorists who may be armed with WMD, and damaged by climate change. How cheery.*
 
-Kagan, Robert. "{{% resource_link "e14e46a9-e6bf-47f9-b419-1dd2d7ad70dc" "China's No. 1 Enemy" %}}," *New York Times,* May 11, 1999.
+Kagan, Robert. "{{% resource_link "57aa62d1-f261-41cf-a4a8-e8cf8d5bb056" "China's No. 1 Enemy" %}}," *New York Times,* May 11, 1999.
 
 *China hates the United States. Appeasing China will only encourage Chinese expansionism and bring on a Sino-American clash. An old but clear statement of a view that has since become more popular: Let's get tough on China.*
 
 versus
 
-Nye, Joseph S., Jr.  "{{% resource_link "18401b49-a2db-47df-8e5d-a08d2f215656" "Work with China, Don't Contain It" %}}," *New York Times*, January 25, 2013.
+Nye, Joseph S., Jr.  "{{% resource_link "69c19924-7621-4230-a936-88d6550ea8ff" "Work with China, Don't Contain It" %}}," *New York Times*, January 25, 2013.
 
 *China does not seek global hegemony. The U.S. can and should seek a modus vivendi with China.*
 
-Fisher, Max. "{{% resource_link "b94ad459-b647-4dd6-ad77-28328a46e65f" "The North Korean Paradox: Why There Are No Good Options on Nuclear Arms" %}}," *New York Times,* April 17, 2017.
+Fisher, Max. "{{% resource_link "72850681-8a9f-4339-9d4f-772558f22ab1" "The North Korean Paradox: Why There Are No Good Options on Nuclear Arms" %}}," *New York Times,* April 17, 2017.
 
 *North Korea's government prefers conflict over harmony with others. It has so provoked its neighbors that it now thinks it must have nuclear weapons to be safe from them. Its military strategy features hair-trigger escalation to nuclear war at the outset of any confrontation. It has a very high threshold for the pain that economic sanctions inflict. Its nuclear weapons are now too numerous and well-hidden to be destroyed before they could be launched, so a preemptive attack on North Korea would likely involve very high costs. It will demand extravagant U.S. concessions in exchange for any deal. In short North Korea is the adversary from hell.*
 
-Allison, Graham. "{{% resource_link "95ee8a61-91c4-496c-aba7-0df5747c1ff9" "Thinking the Unthinkable with North Korea" %}}," *New York Times,* May 30, 2017.
+Allison, Graham. "{{% resource_link "f4269167-7e62-4570-ba90-7506b8ea604e" "Thinking the Unthinkable with North Korea" %}}," *New York Times,* May 30, 2017.
 
 *A war in Korea could grow to become a US-China war, again as in October-November 1950. The U.S. attacks North Korea's nuclear forces; North Korea attacks Seoul, killing several hundred thousand people; South Korea massively attacks North Korea; China enters the war, attacking South Korea to save North Korea; the U.S. attacks China to save South Korea. Oh dear!*
 
-Allison, Graham. "{{% resource_link "655b3a6b-f5c3-45dd-9302-106213d33e25" "How Trump and China's Xi Could Stumble into War" %}}," *Washington Post,* March 31, 2017.
+Allison, Graham. "{{% resource_link "dbdf84fa-d3fc-4149-9e98-e6e518d51442" "How Trump and China's Xi Could Stumble into War" %}}," *Washington Post,* March 31, 2017.
 
 *Aside from Korea, a US-China war could also erupt from conflict over Taiwan, or control of the South China Sea, or islands contested between Japan and China. The Thucydides trap--the dangers that arise when a rising power is overtaking a hegemonic power--makes all U.S.­ China flashpoints dangerous.*
 
@@ -553,19 +553,19 @@ Pakistan is growing its nuclear arsenal like topsy, but securing it badly from t
 
 *Also review*
 
-Nabil, Rahmatullah. "{{% resource_link "be164dd8-2a53-46a5-be0c-65ee78bb83bc" "The World Must Secure Pakistan's Nuclear Weapons" %}}," *New York Times*, April 20, 2017.
+Nabil, Rahmatullah. "{{% resource_link "8b1750fe-f8bc-4ff4-ad3c-e0a0466475b3" "The World Must Secure Pakistan's Nuclear Weapons" %}}," *New York Times*, April 20, 2017.
 
 Roback, Alan, and Brian Toon. "Climatic Effects of Nuclear Conflict," 2010.
 
-*Even a "small" nuclear war, e.g., between secondary nuclear states (e.g., Pakistan and India) could well cause very damaging short-term global climate change. A major nuclear war (e.g., between Russia and the U.S.) could cause potentially civilization-ending climate change. For details visit* {{% resource_link "dc2f35e5-0b28-4a6a-a1d4-15dd1fd36459" "*Climatic Consequences of Nuclear Conflict: Nuclear Winter is Still a Danger,*" %}}
+*Even a "small" nuclear war, e.g., between secondary nuclear states (e.g., Pakistan and India) could well cause very damaging short-term global climate change. A major nuclear war (e.g., between Russia and the U.S.) could cause potentially civilization-ending climate change. For details visit* {{% resource_link "29851e9d-d5b2-4098-b087-abc05dc7b79b" "*Climatic Consequences of Nuclear Conflict: Nuclear Winter is Still a Danger,*" %}}
 
-{{% resource_link "9a798313-7630-44f8-b882-5ab40b15dd26" "*Alan Robock*" %}}*,* {{% resource_link "22408b50-bc14-4c82-9359-9d09f8a5cc0e" "*Department of Environmental Sciences, Rutgers University*" %}}*.*
+{{% resource_link "4812f565-df61-4e44-be04-6c74ce1c9e9c" "*Alan Robock*" %}}*,* {{% resource_link "df0d18de-8b16-4794-88e4-87596bbd9f6b" "*Department of Environmental Sciences, Rutgers University*" %}}*.*
 
-Dean, Cornelia. "{{% resource_link "27cb92dd-ef0f-48d7-9477-ffd9d96a712d" "Survey Shows Gap Between Scientists and the Public" %}}," *New York Times,* July 9, 2009.
+Dean, Cornelia. "{{% resource_link "92ee4f0f-e0d6-49d2-a067-c181be8bd7f0" "Survey Shows Gap Between Scientists and the Public" %}}," *New York Times,* July 9, 2009.
 
 *The U.S. public and the U.S. scientific community inhabit different realities. For example: scientists have reached consensus that human activity is causing significant climate change, but many Americans disbelieve this. Public policy will not be informed by scientific knowledge while this situation persists.*
 
-Zakaria, Fareed. "{{% resource_link "016eb939-eec3-4144-89bd-23cbc6c613bc" "How To Change Ugly Regimes" %}}." *Newsweek,* June 26, 2005.
+Zakaria, Fareed. "{{% resource_link "250ba865-07dc-48b1-9a17-9d890cf02987" "How To Change Ugly Regimes" %}}." *Newsweek,* June 26, 2005.
 
 *The George W. Bush administration tried to oust dictators by isolating and snarling at them. This didn't work--in fact it backfired. Such a U.S. policy has helped keep the Castro regime in power in Cuba for over five decades. It also failed with Iran and North Korea. Instead a loving embrace will destroy such dictators.*
 
